@@ -1,12 +1,14 @@
 # 💫 About Me:
 👋 Hi there! I'm Keerthibalan G<br>🎓 First-year ECE student @ Rajalakshmi Engineering College<br>📡 Passionate about IoT, AI, Embedded Systems, and Smart Electronics<br>💡 Currently working on projects involving LoRa, GSM, GPS, and Real-time Monitoring<br>🧠 Interested in Neural Networks, Signal Processing, Cybersecurity, Animation, and Automation<br>📑 Published at ICSTEM'25 – LoRa-based College Bus Tracking & Attendance System<br>🌱 Always learning, always building. Let’s innovate! 🚀<br><br>
 
-
+# Profile viewers
 <div align="center">
   <img src="https://profile-counter.glitch.me/keerthiherer/count.svg?"  />
 </div>
 
 ###
+![IoT](https://img.shields.io/badge/IoT-📡-f09433?style=for-the-badge&logo=wifi)
+![AI](https://img.shields.io/badge/AI-🧠-dc2743?style=for-the-badge&logo=openai)
 
 
 ### 🔝 Top Contributed Repo
