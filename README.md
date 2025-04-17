@@ -1,17 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Keerthibalan G<br>🎓 First-year ECE student @ Rajalakshmi Engineering College<br>📡 Passionate about IoT, AI, Embedded Systems, and Smart Electronics<br>💡 Currently working on projects involving LoRa, GSM, GPS, and Real-time Monitoring<br>🧠 Interested in Neural Networks, Signal Processing, Cybersecurity, Animation, and Automation<br>📑 Published at ICSTEM'25 – LoRa-based College Bus Tracking & Attendance System<br>🌱 Always learning, always building. Let’s innovate! 🚀<br><br>
 
-<img src="https://raw.githubusercontent.com/keerthiherer/keerthiherer/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/keerthiherer/keerthiherer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/keerthiherer/keerthiherer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/keerthiherer/keerthiherer/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/keerthiherer/count.svg?"  />
