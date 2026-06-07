@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi there! I'm Keerthibalan G<br>🎓 third-year ECE student @ Rajalakshmi Engineering College<br>📡 Passionate about IoT, AI, Embedded Systems, and Smart Electronics<br>💡 Currently working on projects involving LoRa, GSM, GPS, and Real-time Monitoring<br>🧠 Interested in Neural Networks, Signal Processing, Cybersecurity, Animation, and Automation<br>📑 Published at ICSTEM'25 – LoRa-based College Bus Tracking & Attendance System<br>🌱 Always learning, always building. Let’s innovate! 🚀<br><br>
+👋 Hi there! I'm Keerthibalan G<br>
+SIH 2025 harware domain winner.<br>
+🎓 third-year ECE student @ Rajalakshmi Engineering College<br>📡 Passionate about IoT, AI, Embedded Systems, and Smart Electronics<br>💡 Currently working on projects involving LoRa, GSM, GPS, and Real-time Monitoring<br>🧠 Interested in Neural Networks, Signal Processing, Cybersecurity, Animation, and Automation<br>📑 Published at ICSTEM'25 – LoRa-based College Bus Tracking & Attendance System<br>🌱 Always learning, always building. Let’s innovate! 🚀<br><br>
 
 # Profile viewers
 <div align="center">
